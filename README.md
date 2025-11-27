@@ -48,8 +48,8 @@ world-happiness-2024/
 │
 ├─ README.md
 └─ .gitignore
-
------
+```
+---
 
 ## 4. Dashboard Pages & Main KPIs
 
@@ -76,7 +76,9 @@ Global ranking table with search and filters
 - Filters / Slicers:
 Region
 
-5. Data Model (Power BI)
+---
+
+## 5. Data Model (Power BI)
 
 -Fact table
   -FactHappiness
@@ -98,19 +100,19 @@ Region
 
 ---
 
-6. How to Run the Project
+## 6. How to Run the Project
 
-6.1. Clone this repository:
+- Clone this repository:
 
 git clone https://github.com/EmmaTran56/world-happiness-report-2024.git
 cd world-happiness-report-2024
 
-6.2. Download the dataset:
+- Download the dataset:
 
 Download the World Happiness Report 2024 dataset from Kaggle.
 Save the files in the data/raw/ folder.
 
-6.3. Open the Power BI report:
+- Open the Power BI report:
 
 Install Microsoft Power BI Desktop.
 Open powerbi/WorldHappiness2024.pbix.
@@ -119,13 +121,17 @@ In Power BI, go to Transform data > Data source settings.
 Update the file paths to point to your local data/ folder.
 Click Refresh to load data.
 
-7. Tools & Technologies
+---
+
+## 7. Tools & Technologies
 
 Power BI Desktop – Data modelling and interactive visualisation
 Python / Jupyter Notebook (optional) – Data cleaning and exploratory analysis
 Git & GitHub – Version control and project sharing
 
-8. Future Improvements
+---
+
+## 8. Future Improvements
 
 Potential next steps for this project:
 
@@ -134,7 +140,9 @@ Include additional socio-economic indicators (e.g., inequality, education).
 Deploy the report via Power BI Service and share as an interactive web dashboard.
 Build a small API or web app to allow users to query country profiles.
 
-9. Author
+---
+
+## 9. Author
 
 Name: Emma Tran
 Institution: Charles Darwin University
