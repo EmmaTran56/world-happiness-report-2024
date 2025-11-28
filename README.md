@@ -125,9 +125,9 @@ Click Refresh to load data.
 
 ## 7. Tools & Technologies
 
-Power BI Desktop – Data modelling and interactive visualisation
-Data cleaning and exploratory analysis
-Git & GitHub – Version control and project sharing
+- Power BI Desktop – Data modelling and interactive visualisation
+- Data cleaning and exploratory analysis
+- Git & GitHub – Version control and project sharing
 
 ---
 
