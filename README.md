@@ -126,7 +126,7 @@ Click Refresh to load data.
 ## 7. Tools & Technologies
 
 Power BI Desktop – Data modelling and interactive visualisation
-Python / Jupyter Notebook (optional) – Data cleaning and exploratory analysis
+Data cleaning and exploratory analysis
 Git & GitHub – Version control and project sharing
 
 ---
