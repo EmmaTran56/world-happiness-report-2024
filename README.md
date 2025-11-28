@@ -135,10 +135,10 @@ Click Refresh to load data.
 
 Potential next steps for this project:
 
-Add more years of World Happiness data to enable time-series analysis.
-Include additional socio-economic indicators (e.g., inequality, education).
-Deploy the report via Power BI Service and share as an interactive web dashboard.
-Build a small API or web app to allow users to query country profiles.
+- Add more years of World Happiness data to enable time-series analysis.
+- Include additional socio-economic indicators (e.g., inequality, education).
+- Deploy the report via Power BI Service and share as an interactive web dashboard.
+- Build a small API or web app to allow users to query country profiles.
 
 ---
 
